@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4834452 */
+  src: url('iconfont.woff2?t=1740118085947') format('woff2'),
+       url('iconfont.woff?t=1740118085947') format('woff'),
+       url('iconfont.ttf?t=1740118085947') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tanxziti:before {
+  content: "\e600";
+}
+
+.icon-beta:before {
+  content: "\e6be";
+}
+
+.icon-wangyiyunyinle-:before {
+  content: "\e62c";
+}
+
+.icon-wangyiyun:before {
+  content: "\e601";
+}
+
+.icon-tab-boke:before {
+  content: "\e602";
+}
+

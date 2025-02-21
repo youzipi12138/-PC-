@@ -1,0 +1,17 @@
+.layout{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+
+  section{
+    display: flex;
+    flex: 1;
+    background-color: pink;
+    overflow: hidden;
+  }
+  .left{
+    flex: 1;
+    flex-direction: column;
+    background-color: blue;
+  }
+}
