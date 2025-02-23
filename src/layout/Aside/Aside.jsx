@@ -94,7 +94,7 @@ export default function Aside() {
           </li>
           <div style={isHidden2 ? { display: 'none' } : undefined}>
             <li>
-              <img src="https://picsum.photos/600/400" alt="" />
+              <img  className="img"src="https://picsum.photos/600/400" alt="" />
               <span>我喜欢的音乐</span>
             </li>
             <li>
